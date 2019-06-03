@@ -1,0 +1,54 @@
+$themes: (
+
+	// Default Theme
+	"black-white": (
+		// Sidebar
+		"sidebar-background": #343A40,
+		"sidebar-color": #fff,
+
+		// Main
+		"main-background": #FFFFFF,
+		"main-color": #212529,
+
+		// Footer
+		"footer-background": #f8f9fa,
+		"footer-color": #6c757d,
+
+		// Tags
+		"tag-background": transparent,
+		"tag-border-color": #DDDDDD,
+		"tag-color": inherit,
+		"tag-hover-background": #DDDDDD,
+
+		// Progress
+		"progress-background": rgba(#fff, .3),
+		"progress-bar-background": #fff,
+
+	),
+
+	// Blue Theme
+	"blue": (
+		// Sidebar
+		"sidebar-background": #007bff,
+		"sidebar-color": #fff,
+
+		// Main
+		"main-background": #FFFFFF,
+		"main-color": #337ab7,
+
+		// Footer
+		"footer-background": #f8f9fa,
+		"footer-color": #6c757d,
+
+		// Tags
+		"tag-background": transparent,
+		"tag-border-color": #337ab7,
+		"tag-color": inherit,
+		"tag-hover-background": #DDDDDD,
+
+		// Progress
+		"progress-background": rgba(#fff, .3),
+		"progress-bar-background": #fff,
+
+	),
+);
