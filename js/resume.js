@@ -48,7 +48,7 @@ class Profile {
 
 $(function () {
 
-	var me = new Profile("Antonio Okoro", "May 15 1998", "Male");
+	window.me = new Profile("Antonio Okoro", "May 15 1998", "Male");
 	$(".age").html(me.age);
 
 	var themes = ["black-white", "blue"];

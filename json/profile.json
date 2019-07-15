@@ -1,0 +1,317 @@
+{
+	"first_name": "Chimezie",
+	"last_name": "Okoro",
+	"other_names": "Antonio",
+	"nickname": "cheezy",
+	"date_of_birth": "15 May 1998",
+	"nationality": "Nigeria",
+	"title": "Full Stack Devloper",
+	"level": "senior",
+	"bio": "I'm an amazing full stack developer, with great experience with both front and backend \nI work well in teams and although I'm not a gradute I can assure you that I am far better than most graduates",
+	"contact": {
+		"location": {
+			"country": "Nigeria",
+			"city": "Lagos",
+			"lga": "Oshodi-isolo",
+			"postal_code": "100002",
+			"address": [
+				"38, Old Ewu Road, Mafoluku, Oshodi-isolo"
+			]
+		},
+		"email": [
+			"cheezytony1@gmail.com"
+		],
+		"phone": [
+			"+2348105844849"
+		]
+	},
+	"profile": [
+		{
+			"name": "facebook",
+			"url": "facebook.com/antonio.cheezy"
+		},
+		{
+			"name": "linkedin",
+			"url": "linkedin.com/in/antonio-okoro"
+		}
+	],
+	"git": [
+		{
+			"name": "gitlab",
+			"url": "gitlab.com/cheezytony"
+		},
+		{
+			"name": "github",
+			"url": "github.com/cheezytony"
+		}
+	],
+	"cv": [
+		{
+			"name": "github",
+			"file": "cheezytony.github.io/resume"
+		},
+		{
+			"name": "google-drive",
+			"file": ""
+		}
+	],
+	"skills": [
+		{"name": "HTML",  "level": 75},
+		{"name": "CSS",  "level": 95},
+		{"name": "Javascript",  "level": 80},
+		{"name": "PHP",  "level": 70},
+		{"name": "Bootstrap",  "level": 75},
+		{"name": "Laravel",  "level": 85},
+		{"name": "Vue",  "level": 75}
+	],
+	"education": [
+		{
+			"name": "Mafoluku Junior Grammar School",
+			"from": "2010",
+			"to": "2013",
+			"certificate": "JSCE",
+			"comment": ""
+		},
+		{
+			"name": "Mafoluku Senior Grammar School",
+			"from": "2013",
+			"to": "2016",
+			"certificate": "SSCE",
+			"comment": ""
+		}
+	],
+	"work": [
+		{
+			"name": "Mighty Interactive Limited",
+			"position": "Full Stack Devloper",
+			"level": "mid-level",
+			"from": "Dec 2017",
+			"to": "Dec 2018",
+			"responsibilities": [
+			]
+		},
+		{
+			"name": "Crednet Technologies (Credpal)",
+			"position": "Full Stack Developer",
+			"level": "senior",
+			"from": "Jan 2019",
+			"to": "now",
+			"responsibilities": [
+			]
+		}
+	],
+	"projects": {
+		"work": [
+			{
+				"type": "website",
+				"url": "https://mighty.ng/",
+				"title": "Mighty NG",
+				"owner": "Mighty Interactive Limited",
+				"description": "",
+				"languages": [
+					"HTML",
+					"CSS",
+					"SASS",
+					"Bootstrap",
+					"Javascript",
+					"PHP",
+					"Laravel"
+				],
+				"responsibilities": [
+
+				]
+			},
+			{
+				"type": "website",
+				"url": "https://mighty.ng/blog",
+				"title": "Mighty Blog",
+				"owner": "Mighty Interactive Limited",
+				"description": "",
+				"languages": [
+					"HTML",
+					"CSS",
+					"SASS",
+					"Bootstrap",
+					"Javascript",
+					"PHP",
+					"Wordpress"
+				],
+				"responsibilities": [
+
+				]
+			},
+			{
+				"type": "website",
+				"url": "https://mightyi.com",
+				"title": "Mighty Interactive Official Website",
+				"owner": "Mighty Interactive Limited",
+				"description": "",
+				"languages": [
+					"HTML",
+					"CSS",
+					"SASS",
+					"Bootstrap",
+					"Javascript",
+					"PHP",
+					"Laravel"
+				],
+				"responsibilities": [
+
+				]
+			},
+			{
+				"type": "website",
+				"url": "https://mightycreative.xyz",
+				"title": "Mighty Creative",
+				"owner": "Mighty Interactive Limited",
+				"description": "",
+				"languages": [
+					"HTML",
+					"CSS",
+					"SASS",
+					"Bootstrap",
+					"Javascript",
+					"PHP",
+					"Wordpress"
+				],
+				"responsibilities": [
+
+				]
+			},
+			{
+				"type": "website",
+				"url": "https://credpal.com",
+				"title": "CredPal",
+				"owner": "Crednet Technologies (CredPal)",
+				"description": "",
+				"languages": [
+					"HTML",
+					"CSS",
+					"SASS",
+					"Bootstrap",
+					"Javascript",
+					"Vue",
+					"PHP",
+					"Laravel",
+					"Amazon SES"
+				],
+				"responsibilities": [
+
+				]
+			},
+			{
+				"type": "website",
+				"url": "https://beautymaven.ng",
+				"title": "CredPal",
+				"owner": "Crednet Technologies (CredPal)",
+				"description": "",
+				"languages": [
+					"HTML",
+					"CSS",
+					"SASS",
+					"Bootstrap",
+					"Javascript",
+					"Vue",
+					"PHP",
+					"Laravel",
+					"Amazon SES"
+				],
+				"responsibilities": [
+
+				]
+			}
+		],
+		"personal": [
+			{
+				"type": "template",
+				"url": "cheezytony.github.io/vue-2019",
+				"title": "Vue 2019",
+				"owner": "me",
+				"description": "",
+				"languages": [
+					"HTML",
+					"Pug",
+					"CSS",
+					"SASS",
+					"Bootstrap",
+					"Javascript",
+					"vue",
+					"webpack"
+				],
+				"responsibilities": [
+
+				]
+			},
+			{
+				"type": "template",
+				"url": "cheezytony.github.io/vue-2019-dashboard",
+				"title": "Vue 2019 Dashboard",
+				"owner": "me",
+				"description": "",
+				"languages": [
+					"HTML",
+					"Pug",
+					"CSS",
+					"SASS",
+					"Bootstrap",
+					"Javascript",
+					"vue",
+					"webpack"
+				],
+				"responsibilities": [
+
+				]
+			}
+		],
+		"public": [
+			{
+				"type": "package",
+				"url": [
+					{
+						"host": "github",
+						"url": "https://github.com/cheezytony/vue-datatable"
+					},
+					{
+						"host": "npm",
+						"url": "https://www.npmjs.com/package/bootstrap-vue-datatable"
+					}
+				],
+				"title": "Vue 2019",
+				"owner": "me",
+				"description": "",
+				"languages": [
+					"HTML",
+					"CSS",
+					"SASS",
+					"Bootstrap",
+					"Javascript",
+					"vue",
+					"npm",
+				],
+				"responsibilities": [
+
+				]
+			}
+		],
+		"for_sale": [
+			{
+				"type": "template",
+				"url": "cheezytony.github.io/2019",
+				"title": "2019",
+				"owner": "me",
+				"description": "",
+				"languages": [
+					"HTML",
+					"Pug",
+					"CSS",
+					"SASS",
+					"Bootstrap",
+					"Javascript"
+				],
+				"responsibilities": [
+
+				]
+			}
+		]
+	}
+}
